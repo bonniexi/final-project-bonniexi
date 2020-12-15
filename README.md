@@ -3,14 +3,9 @@
 ## Install
 
 requests
-```
-```
-sqlite3,
-```
-BeautifulSoup,
-time,
-```
-```
+sqlite3
+BeautifulSoup
+time
 
 ## Usage
 
