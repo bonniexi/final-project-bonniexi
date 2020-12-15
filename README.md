@@ -28,5 +28,9 @@ The interaction part starts with entering a library name you want to study at, t
 At the beginning, import the final_project_code file to use the functions there.  
 This file include two parts: create a dictionary to save all the needed information, create databse with two tables. 
 
+## Contributor
+
+Chang Gao
+
 ## License
 UMICH @ Chang Gao (U-M ID: 18554062)
