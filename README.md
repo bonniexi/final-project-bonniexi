@@ -30,7 +30,7 @@ This file include two parts: create a dictionary to save all the needed informat
 
 ## Contributor
 
-Chang Gao
+Chang Gao (U-M ID: 18554062)
 
 ## License
-UMICH @ Chang Gao (U-M ID: 18554062)
+UMICH @ Chang Gao
